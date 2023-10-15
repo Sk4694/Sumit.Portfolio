@@ -1,5 +1,6 @@
 # Sumit.Portfolio
-# My portfolio website is built using HTML, CSS, and JavaScript to create an interactive and visually appealing experience. HTML forms the structure, providing the foundation for all the content. It organizes the text, images, and links on the page. CSS is responsible for the design and layout, ensuring everything looks polished and consistent. It styles fonts, colors, and spacing, creating a visually pleasing presentation.
+
+My portfolio website is built using HTML, CSS, and JavaScript to create an interactive and visually appealing experience. HTML forms the structure, providing the foundation for all the content. It organizes the text, images, and links on the page. CSS is responsible for the design and layout, ensuring everything looks polished and consistent. It styles fonts, colors, and spacing, creating a visually pleasing presentation.
 
 The interactive elements are powered by JavaScript. For instance, when you click on a project, JavaScript handles the animation or transition to provide a smooth user experience. It also enables dynamic features, like contact forms and modal pop-ups. To keep the website responsive and adaptable to different devices, I've used CSS media queries to adjust the layout and design as needed.
 
